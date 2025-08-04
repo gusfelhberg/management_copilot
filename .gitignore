@@ -1,0 +1,5 @@
+__pycache__/
+data/parsed_data/
+.streamlit/secrets.toml
+.DS_Store
+memory/
